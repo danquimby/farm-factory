@@ -1,0 +1,7 @@
+[
+    {"type": "game", "name": "gold", "icon": "icon_path"},
+    {"type": "game", "name": "food", "icon": "icon_path"},
+    {"type": "game", "name": "metal", "icon": "icon_path"},
+    {"type": "game", "name": "wood", "icon": "icon_path"},
+    {"type": "game", "name": "brick", "icon": "icon_path"}
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "icon":  "icon",
+    "name": "name",
+    "image":  "image",
+    "w": 1,
+    "h":  1,
+    "max_level": 3
+  },
+  {
+    "icon":  "icon1",
+    "name": "name1",
+    "image":  "image1",
+    "w": 1,
+    "h":  1,
+    "max_level": 2
+  },
+  {
+    "icon":  "icon2",
+    "name": "name2",
+    "image":  "image2",
+    "w": 1,
+    "h":  1,
+    "max_level": 4
+  },
+  {
+    "icon":  "icon3",
+    "name": "name3",
+    "image":  "image3",
+    "w": 1,
+    "h":  1,
+    "max_level": 5
+  }
+]
